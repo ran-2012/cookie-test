@@ -1,0 +1,10 @@
+google.com
+youtube.com
+facebook.com
+wikipedia.org
+twitter.com
+instagram.com
+reddit.com
+yahoo.com
+duckduckgo.com
+bing.com
